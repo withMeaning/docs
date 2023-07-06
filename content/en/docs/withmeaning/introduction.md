@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   docs:
-    parent: "Hosted"
+    parent: "withmeaning"
 weight: 200
 toc: true
 ---
@@ -24,9 +24,3 @@ We believe in giving back control to the user, allowing you to compete with the 
 The initial version of "With Meaning" caters specifically to founders and researchers, providing them with an indispensable tool to effectively filter information and make informed decisions. However, our long-term vision extends far beyond that. We aspire to build the ultimate attention manager for our collective brain, solving the signal-to-noise ratio problem that plagues the digital world.
 
 Embrace the future of content curation with "With Meaning." Join us on this exciting journey as we empower individuals to regain control, tailor their online experiences, and truly make every interaction meaningful. Say goodbye to information overload and hello to a curated digital world that revolves around you.
-
-Our goal for with Meaning is to build the most universal and personal recommender out there. Both for universality, which requires many integrations with the rest of the internet, as well as for the privacy that self-hosting can offer, we decided to open source all of our back-end code.
-
-But we also want to offer a convenient and easy to use platform for everyone, as well as build a sustainable business. We therefore provide a hosted service, against a monthly subscription.
-
-For this we are currently building a web app, and a mobile compsanion. If you want to contribute and are a React / Flutter developer, reach out! Come back to sign up to our waitlist, or message the developers.
