@@ -15,7 +15,6 @@ toc: true
 
 ## Everything that wants to get done
 
-This experience type is the main 
 
 
 ## Properties
@@ -24,6 +23,7 @@ This experience type is the main
 RequiredLake: True
 RequiredAlgo: True
 RequiredClient: False
+
 
 extra: {
   "deadline?": 1223213
